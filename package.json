@@ -1,0 +1,14 @@
+{
+  "name": "awesomeproject2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "delete-node-modules": "pnpm -r exec -- rm -rf node_modules || false"
+  },
+  "author": "",
+  "license": "ISC"
+}
