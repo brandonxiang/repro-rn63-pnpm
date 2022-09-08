@@ -9,6 +9,7 @@ const getRepoRoot = () => {
 };
 
 module.exports = {
+  projectRoot,
   resolver: {
     resolveRequest: MetroSymlinksResolver(),
   },
